@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Branbold';
+  src: url('/Fonts/BrandonText-Bold.otf');
+}
+@font-face {
+  font-family: 'Branlight';
+  src: url('/Fonts/BrandonText-Light.otf');
+}
+@font-face {
+  font-family: 'Branthin';
+  src: url('/Fonts/BrandonText-Thin.otf');
+}
+@font-face {
+  font-family: 'Branreg';
+  src: url('/Fonts/BrandonText-Regular.otf');
+}
+@font-face {
+  font-family: 'Branitalic';
+  src: url('/Fonts/BrandonText-RegularItalic.otf');
+}
+
+
+/* Avenir */
+@font-face {
+  font-family: 'AvenirHeavy';
+  src: url('/Fonts/AvenirHeavy.ttf');
+}
+
+/*  */
+@font-face {
+  font-family: 'EinaBold';
+  src: url('/Fonts/Eina03-Bold.ttf');
+}
+
+/*  */
+@font-face {
+  font-family: 'GilroyBold';
+  src: url('/Fonts/Gilroy-Bold.ttf');
+}
+@font-face {
+  font-family: 'GilroyRegular';
+  src: url('/Fonts/Gilroy-Regular.ttf');
+}
